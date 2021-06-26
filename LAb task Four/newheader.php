@@ -4,7 +4,7 @@
 </head>
 <body>
 
-    <h1 style="color: Green;font-size: 35px;">ProjecTree</h1>
+     <img src="company.png" alt="Profile Picture" width="80" height="40"><br>
     
     <h2 style="text-align: right;">
         Logged in as <?php session_start(); echo$_SESSION['name']." |"; ?>
