@@ -14,7 +14,7 @@ include "newHeader.php";
         <form action="upload.php" method="post" enctype="multipart/form-data">
           <fieldset style="width:30%;text-align: center;margin-left: 500;">
             <legend>PROFILE PICTURE</legend>
-            <img src="uploads/no.png" alt="" width="250" height="250">
+            <img src="ProfileImage.jpg" alt="" width="250" height="250">
             <br>Select image to upload:
             <input type="file" name="fileToUpload" id="fileToUpload">
             <br><br>
